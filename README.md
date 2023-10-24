@@ -3,4 +3,4 @@ Sign up form page for the-odin-project course.
 
 
 LIVE: 
-https://etzoider.github.io/sign-up-form/
+https://rafaelfontenele.github.io/sign-up-form/
